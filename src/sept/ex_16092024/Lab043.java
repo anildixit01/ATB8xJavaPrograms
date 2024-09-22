@@ -1,6 +1,6 @@
 package sept.ex_16092024;
 
-public class La043 {
+public class Lab043 {
     public static void main(String[] args) {
 
         int a = 12;
