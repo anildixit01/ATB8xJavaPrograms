@@ -1,6 +1,6 @@
 package sept.ex_16092024;
 
-public class L0b42 {
+public class Lab042 {
     public static void main(String[] args) {
 
         // And && //  only true && true returns here
