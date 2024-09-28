@@ -1,6 +1,6 @@
 package Task_20092024;
-import java.util.Scanner;
-public class Max_in_three_nos {
+
+public class Task_1_Max_in_3nos {
     public static void main(String[] args) {
         // By using Ternary operator max between 3 numbers.
         // Input int - a,b,c - a = 10, b = 20, c = 45

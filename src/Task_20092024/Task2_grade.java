@@ -1,6 +1,6 @@
 package Task_20092024;
 
-public class task_grade {
+public class Task2_grade {
     public static void main(String[] args) {
        // Ternary Operators to handle multiple conditions.
 

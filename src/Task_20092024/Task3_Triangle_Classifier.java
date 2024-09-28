@@ -1,6 +1,6 @@
 package Task_20092024;
 import java.util.Scanner;
-public class Triangle_Classifier {
+public class Task3_Triangle_Classifier {
     public static void main(String[] args) {
         // Triangle Classifier
         // // Write a program that classifies a triangle based on its side lengths.
