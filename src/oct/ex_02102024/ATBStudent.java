@@ -1,12 +1,12 @@
 package oct.ex_02102024;
 
-public class ATBstudent {
+public class ATBStudent {
     // C - ATBStudent
     //  A - Attribute | data members | instance variables | fields | member variables
     long phone;
     String email;
     int age;
-    int batch8x;
+    int batch;
     String name;
     boolean isMale;
     String address;
@@ -15,7 +15,7 @@ public class ATBstudent {
     String sid;
 
     //  B - Behaviour | methods | member functions
-    void study(){} // NRNA
+    void study(){} // NRNA (no return type No argument function)
     void eat(){}
     void walk(){}
 }

@@ -1,8 +1,9 @@
 package oct.ex_02102024;
-
+import sept.Person;
+import java.util.Scanner;
 public class Lab124 {
-            public static void main(String[] args) {
-                // Object Class - OOps
+   public static void main(String[] args) {
+// Object Class - OOps
                 // String Class - Ref
                 // Arrays
                 // for each
@@ -22,5 +23,6 @@ public class Lab124 {
                 System.out.println(abhishek); // oct.ex_02102024.ATBStudent@30f39991
 
                 // abhishek - Ref VARAIBLE - bYTE, ir bits ->  8, 64, null default
+
     }
 }

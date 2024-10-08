@@ -3,7 +3,7 @@ package oct.ex_02102024;
 public class Task3 {
     public static void main(String[] args) {
 
-        public static void main(String[] args) {
+
             //3.Create a Class  ATBStudent and 5 Objects - (A/B) - github.com
 
             ATBStudent object1=new ATBStudent();
@@ -21,5 +21,5 @@ public class Task3 {
             ATBStudent object5=new ATBStudent();
             object5.address="Firozabad";
 
-        }
+    }
 }
