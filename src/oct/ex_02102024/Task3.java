@@ -8,18 +8,25 @@ public class Task3 {
 
             ATBStudent object1=new ATBStudent();
             object1.age=30;
+            //System.out.println(object1);
+            System.out.println(object1.age);
 
             ATBStudent object2=new ATBStudent();
             object2.name="Anil";
+            System.out.println(object2.name);
 
             ATBStudent object3=new ATBStudent();
             object3.phone=8077109101L;
+            System.out.println(object3.phone);
 
             ATBStudent object4=new ATBStudent();
             object4.batch=9;
+            System.out.println(object4.batch);
+
 
             ATBStudent object5=new ATBStudent();
             object5.address="Firozabad";
+            System.out.println(object5.address);
 
     }
 }
