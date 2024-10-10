@@ -15,7 +15,7 @@ public class Task2 {
 
     //1. Class and Object
     //2. Encapsulation
-    //3.Inheritance
+    //3.singleinheritance
     //4.Polymorphism
     //5.Abstraction
     //6.Association, Aggregation, and Composition
