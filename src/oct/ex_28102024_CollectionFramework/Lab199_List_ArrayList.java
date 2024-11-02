@@ -11,7 +11,7 @@ public class Lab199_List_ArrayList {
         list.add("butter"); // 2
         list.add("paneer");  //3
         list.add("jam");  //4
-        list.add("cheeze");  //4
+        list.add("cheeze");  //5
         System.out.println(list);
         System.out.println(list.size());
         System.out.println(list.isEmpty());
@@ -19,12 +19,6 @@ public class Lab199_List_ArrayList {
         System.out.println(list.contains("1"));
         System.out.println(list.indexOf("3")); //find the first occ of element in list
         System.out.println(list.lastIndexOf("3")); //find the first occ of element in list
-
-
-
-
-
-
 
 
     }

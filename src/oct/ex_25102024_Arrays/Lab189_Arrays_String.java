@@ -11,7 +11,7 @@ public class Lab189_Arrays_String {
         System.out.println(names.length);
         System.out.println(names[0]);
         System.out.println(names [4]);
-        System.out.println(names[5]); //ArrayIndexOutOfBoundsException
+       // System.out.println(names[5]); //ArrayIndexOutOfBoundsException
 
 
     }

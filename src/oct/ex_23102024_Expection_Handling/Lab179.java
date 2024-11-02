@@ -24,5 +24,6 @@ public class Lab179 {
         }
         System.out.println(b);
         System.out.println("End of the program");
+        // bad pratices example
     }
 }

@@ -12,8 +12,8 @@ public class Lab201_List_ArrayList {
         marks.add(89);
         System.out.println(marks);
         //  Sorting
-        //Collections.sort(marks);
-        Collections.sort(marks,Collections.reverseOrder());
+        Collections.sort(marks);
+       // Collections.sort(marks,Collections.reverseOrder());
         System.out.println(marks);
 
 

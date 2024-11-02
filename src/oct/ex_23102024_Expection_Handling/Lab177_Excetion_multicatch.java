@@ -7,18 +7,18 @@ public class Lab177_Excetion_multicatch {
     int a= Integer.parseInt(ip);
     int b= 100/a;
     System.out.println(b);
-}catch (ArithmeticException e){
+    }catch (ArithmeticException e){
     System.out.println(e.getMessage());
 
-}catch (ArrayIndexOutOfBoundsException e){
+    }catch (ArrayIndexOutOfBoundsException e){
     System.out.println(e.getMessage());
 
-} catch (NumberFormatException e){
+    } catch (NumberFormatException e){
     System.out.println(e.getMessage());
 
-}catch (Exception e){
+    }catch (Exception e){
     System.out.println(e.getMessage());
-}finally {
+    }finally {
         System.out.println("Always executed");
     }
 
