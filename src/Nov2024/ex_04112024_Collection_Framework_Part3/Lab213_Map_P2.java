@@ -36,6 +36,11 @@ public class Lab213_Map_P2 {
 
 
 
+        for(Map.Entry<String,Integer> item: map.entrySet()){
+            System.out.println(item.getKey() + " -> "+ item.getValue());
+        }
+
+
 
     }
 

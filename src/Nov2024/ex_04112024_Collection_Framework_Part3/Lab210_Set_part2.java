@@ -1,4 +1,5 @@
 package Nov2024.ex_04112024_Collection_Framework_Part3;
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -12,6 +13,10 @@ public class Lab210_Set_part2 {
         set.add ("Apple");
         System.out.println("set elements: " +set);
 
+
+        ArrayList list = new ArrayList();
+        // list.add(); // index ? -> array index to store
+        // add, replace, contains, remove
 
 
 
